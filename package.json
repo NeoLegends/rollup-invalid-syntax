@@ -1,0 +1,9 @@
+{
+  "name": "rollup-systemjs-syntax",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.58.2"
+  }
+}
